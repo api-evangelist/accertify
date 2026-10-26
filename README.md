@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Accertify is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.accertify.com/
+Accertify provides a leading fraud prevention and risk management platform, offering APIs and services that help businesses detect and prevent fraudulent transactions, manage chargebacks, and secure payment processes across industries such as e‑commerce, financial services, and gaming.
+
+**Areas:** Company · Fraud · Payments · RiskManagement · API · FinTech
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.accertify.com/)
+- [Documentation](https://developer.accertify.com/)
+- [Blog](https://www.accertify.com/resources/resource-category/blog/page/1/)
+- [Terms of service](https://www.accertify.com/terms-and-conditions/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/accertify/](https://apis.io/providers/accertify/).
